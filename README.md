@@ -36,7 +36,7 @@ You can define several meta data with a [Front Matter]. Vellm accepts the follow
 | Key | Format | Example | Default |
 |---|---|---|---|
 | Title | string | `Title: This is a title` | - |
-| Tags | []string | <code>Tags:<br />&nbsp;&nbsp;&nbsp;&nbsp;- golang<br />&nbsp;&nbsp;&nbsp;&nbsp;- development</code> | - |
+| Tags | []string | <code>Tags:</code><br /><code>&nbsp;&nbsp;&nbsp;&nbsp;- golang</code><br /><code>&nbsp;&nbsp;&nbsp;&nbsp;- development</code> | - |
 | Published | boolean | `Published: true` | false |
 
 [Front Matter]: http://assemble.io/docs/YAML-front-matter.html
